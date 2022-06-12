@@ -1,0 +1,45 @@
+body{
+    background-color: azure;
+}
+img
+{
+    width: 800px;
+    height: 750px;
+}
+nav
+{ 
+    
+    font-family: 'Times New Rjoman', Times, serif;
+ }
+footer
+{ 
+    background-color: powderblue;
+    font-family: 'Times New Roman', Times, serif;
+ }
+table
+{ 
+    background-color: #ca90c3;
+    
+}
+ 
+aside
+{ 
+    
+    height: 50px;
+    width: 50;
+    float: right;
+
+}
+h3
+{
+    background-color: #ca90c3;
+}
+#lisa1
+{
+    background-color:#e28743 ;
+}
+h1
+{
+    background-color: #ca90c3;
+}
+
